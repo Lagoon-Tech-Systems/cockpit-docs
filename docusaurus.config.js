@@ -4,7 +4,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Lagoon Cockpit',
   tagline: 'Self-hosted Docker management platform — monitor, manage, and secure your containers from anywhere.',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
   future: {
     v4: true,
