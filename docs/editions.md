@@ -16,16 +16,16 @@ Lagoon Cockpit comes in three editions. The Community Edition is free and open-s
 | Container management (start, stop, restart, logs, exec) | Yes | Yes | Yes |
 | Compose stack management | Yes | Yes | Yes |
 | System metrics dashboard | Yes | Yes | Yes |
-| Alert rules | 100 | Unlimited | Unlimited |
-| Webhooks | 50 | Unlimited | Unlimited |
-| Scheduled actions | 50 | Unlimited | Unlimited |
+| Alert rules | 5 | 100 | Unlimited |
+| Webhooks | 3 | 50 | Unlimited |
+| Scheduled actions | 5 | 50 | Unlimited |
 | Real-time SSE stream | Yes | Yes | Yes |
 | Prometheus metrics export | Yes | Yes | Yes |
 | CLI tool | Yes | Yes | Yes |
 | Windows agent support | Yes | Yes | Yes |
-| Multi-server | 3 servers | 10 servers | Unlimited |
-| Users (RBAC) | 5 users | 25 users | Unlimited |
-| Audit trail | 30 days | 90 days | Unlimited + Export |
+| Multi-server | 3 servers | 20 servers | Unlimited |
+| Users (RBAC) | 1 user | 5 users | Unlimited |
+| Audit trail | — | 30 days | Unlimited + Export |
 | Biometric lock | Yes | Yes | Yes |
 
 ### Data Integrations
@@ -38,7 +38,7 @@ Lagoon Cockpit comes in three editions. The Community Edition is free and open-s
 | Datadog | - | Yes | Yes |
 | CloudWatch | - | Yes | Yes |
 | PagerDuty | - | Yes | Yes |
-| Max integrations | 10 | Unlimited | Unlimited |
+| Max integrations | 2 | 10 | Unlimited |
 
 ### Pro Features
 
